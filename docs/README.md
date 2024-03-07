@@ -25,7 +25,7 @@ Contributions to WallexAPI are welcome! Whether you want to report a bug, sugges
 
 ## License
 
-This project is licensed under the GPL-3.0 License - see the [LICENSE](./LICENSE.bib) file for details.
+This project is licensed under the GPL-3.0 License - see the [LICENSE](https://github.com/MohZeh/WallexApi/blob/main/LICENSE.bib) file for details.
 
 ###
 
@@ -55,4 +55,4 @@ This project is licensed under the GPL-3.0 License - see the [LICENSE](./LICENSE
 
 ## مجوز
 
-این پروژه تحت مجوز GPL-3.0 است - جزئیات را در [فایل مجوز](./LICENSE.bib) ببینید.
+این پروژه تحت مجوز GPL-3.0 است - جزئیات را در [فایل مجوز](https://github.com/MohZeh/WallexApi/blob/main/LICENSE.bib) ببینید.
